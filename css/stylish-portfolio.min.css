@@ -1,3 +1,9 @@
+
+
+.carousel-inner img {
+  margin: auto;
+}
+
 body,
 html {
     width: 100%;
